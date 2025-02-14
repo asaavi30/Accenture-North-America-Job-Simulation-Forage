@@ -71,7 +71,7 @@ Task 3 involves setting up a Jenkins pipeline to automate the build and test pro
   * Build: Executes the ./gradlew assemble command to compile the project.
   * Test: Executes the ./gradlew test command to run the project's tests.
 
-#### Code Example:
+#### Code Example: (https://www.jenkins.io/doc/book/pipeline/syntax/#stages)
 * pipeline {
     agent any
     stages {
