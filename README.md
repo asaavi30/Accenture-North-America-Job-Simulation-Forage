@@ -96,7 +96,8 @@ Task 3 involves setting up a Jenkins pipeline to automate the build and test pro
 
 ## Write stories for a new feature to help plan the next sprint.
 
-### Solution: Task 4 outlines user stories and acceptance criteria for an e-commerce platform. These stories cover various functionalities related to shopping cart management, checkout process, and order notifications.
+### Solution: User Stories and Acceptance Criteria
+Task 4 outlines user stories and acceptance criteria for an e-commerce platform. These stories cover various functionalities related to shopping cart management, checkout process, and order notifications.
 
 #### Key Stories:
 
