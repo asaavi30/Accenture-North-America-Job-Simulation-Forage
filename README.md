@@ -132,8 +132,47 @@ Task 4 outlines user stories and acceptance criteria for an e-commerce platform.
 * Checkout with PayPal: As a shopper, I need to be able to use PayPal on the checkout page so I can pay for my items using my PayPal account.
 * Order Confirmation Email: As an e-commerce website, I need to be able to send my customers an email when an order has been confirmed.
 
+## Skills Learned and Practiced
 
+Throughout the completion of these tasks, the following skills were learned and practiced:
 
+### **1. Object-Oriented Programming (OOP)**
+- Designed and implemented classes and methods following OOP principles such as **encapsulation**, **inheritance**, and **polymorphism**.
+- Used **Java** to create modular and reusable code.
+
+### **2. Java**
+- Developed backend functionality using Java, including **search logic**, **reporting**, and **service layers**.
+- Utilized Java collections (e.g., `List`, `Map`) for data manipulation and storage.
+
+### **3. Spring Framework**
+- Built **RESTful APIs** using **Spring Boot**, including controllers, services, and repositories.
+- Leveraged **dependency injection** and **inversion of control (IoC)** using Spring's `@Autowired` annotation.
+- Implemented REST endpoints for **search** and **reporting** functionalities.
+
+### **4. Code Refactoring**
+- Refactored code to improve **readability**, **maintainability**, and **scalability**.
+- Separated concerns by moving search logic from the controller to a dedicated service (`SearchService`).
+- Applied best practices to ensure clean and efficient code.
+
+### **5. Continuous Integration (CI)**
+- Configured a **Jenkins pipeline** to automate the build and test processes.
+- Integrated CI practices into the development workflow to ensure **code quality** and **reliability**.
+
+### **6. Jenkins**
+- Created a **declarative Jenkins pipeline** with stages for building and testing the application.
+- Used Jenkins to automate the execution of Gradle commands (`assemble`, `test`).
+
+### **7. DevOps**
+- Practiced **DevOps principles** by setting up a **CI/CD pipeline** to streamline development and deployment processes.
+- Ensured that code changes are automatically built, tested, and ready for deployment.
+
+### **8. Agile Methodology**
+- Followed **Agile practices** by breaking down tasks into **user stories** and **acceptance criteria**.
+- Prioritized **iterative development** and **continuous feedback**.
+
+### **9. Software Development Lifecycle (SDLC)**
+- Applied **SDLC principles** to plan, design, implement, test, and deploy software features.
+- Ensured that each task aligned with the overall project goals and requirements.
 
 
 
